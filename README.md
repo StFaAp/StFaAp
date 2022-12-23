@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @StFaAp
+ I’m @StFaAp
 
-- 👀 I’m interested in data sciense
+
+👀 I’m interested in data sciense
